@@ -16,5 +16,8 @@
     "url": "https://github.com/tsmliu213/request-header-api/issues"
   },
   "homepage": "https://github.com/tsmliu213/request-header-api#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
